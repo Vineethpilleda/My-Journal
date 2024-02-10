@@ -7,9 +7,9 @@ Here, I document my trading entries, exit, logic behind my trade, and other insi
 
 **Key Features**:
 
-*Trade Logs*: Detailed records of each trade, including entry and exit points, position size, and reasoning behind the trade.
-*Market Analysis*: Regular updates on market conditions, technical and losses occured, and potential opportunities.
-*Risk Management*: Insights into risk management strategies employed to safeguard capital and optimize returns.
-*Lessons Learned*: Reflections on lessons learned from trades, both profitable and unprofitable, contributing to continuous improvement.
+***Trade Logs***: Detailed records of each trade, including entry and exit points, position size, and reasoning behind the trade.
+***Market Analysis***: Regular updates on market conditions, technical and losses occured, and potential opportunities.
+***Risk Management***: Insights into risk management strategies employed to safeguard capital and optimize returns.
+***Lessons Learned***: Reflections on lessons learned from trades, both profitable and unprofitable, contributing to continuous improvement.
 
 Feel free to explore my trading journey, and don't hesitate to share your thoughts or insights.
